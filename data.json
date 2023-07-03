@@ -1,0 +1,9202 @@
+[
+    {
+        "nama": "Kartika",
+        "gender": "Wanita",
+        "umur": 30,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 917825,
+        "pengeluaran": 737926,
+        "page_one": [
+            1,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Siska",
+        "gender": "Wanita",
+        "umur": 43,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2811674,
+        "pengeluaran": 1095996,
+        "page_one": [
+            2,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            3,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Mawar",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3564406,
+        "pengeluaran": 2484839,
+        "page_one": [
+            1,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            2,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Putri",
+        "gender": "Wanita",
+        "umur": 22,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3491534,
+        "pengeluaran": 885058,
+        "page_one": [
+            2,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            4,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Cakra",
+        "gender": "Pria",
+        "umur": 31,
+        "pekerjaan": "Roaster",
+        "pendapatan": 3297493,
+        "pengeluaran": 2420574,
+        "page_one": [
+            1,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            2,
+            3,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Jaya",
+        "gender": "Pria",
+        "umur": 29,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3351202,
+        "pengeluaran": 1392856,
+        "page_one": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            3,
+            3,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Lestari",
+        "gender": "Wanita",
+        "umur": 32,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1229970,
+        "pengeluaran": 867163,
+        "page_one": [
+            2,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Dewi",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2521163,
+        "pengeluaran": 1214299,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Tito",
+        "gender": "Pria",
+        "umur": 22,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2289765,
+        "pengeluaran": 1838682,
+        "page_one": [
+            2,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Maya",
+        "gender": "Wanita",
+        "umur": 42,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 720687,
+        "pengeluaran": 703992,
+        "page_one": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Oscar",
+        "gender": "Pria",
+        "umur": 36,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1443912,
+        "pengeluaran": 796864,
+        "page_one": [
+            1,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Intan",
+        "gender": "Wanita",
+        "umur": 33,
+        "pekerjaan": "Barista",
+        "pendapatan": 3246705,
+        "pengeluaran": 2396685,
+        "page_one": [
+            1,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            3,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Wati",
+        "gender": "Wanita",
+        "umur": 41,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2724166,
+        "pengeluaran": 1950439,
+        "page_one": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            4,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Jamal",
+        "gender": "Pria",
+        "umur": 26,
+        "pekerjaan": "Barista",
+        "pendapatan": 3619887,
+        "pengeluaran": 1224843,
+        "page_one": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Lusi",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3914383,
+        "pengeluaran": 2094417,
+        "page_one": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Oktavian",
+        "gender": "Pria",
+        "umur": 25,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3302188,
+        "pengeluaran": 2973043,
+        "page_one": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Intan",
+        "gender": "Wanita",
+        "umur": 26,
+        "pekerjaan": "Roaster",
+        "pendapatan": 3330855,
+        "pengeluaran": 1719520,
+        "page_one": [
+            1,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Adi",
+        "gender": "Pria",
+        "umur": 41,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 831826,
+        "pengeluaran": 808677,
+        "page_one": [
+            2,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            4,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Endang",
+        "gender": "Pria",
+        "umur": 25,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1403410,
+        "pengeluaran": 1002478,
+        "page_one": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            4,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Winda",
+        "gender": "Wanita",
+        "umur": 27,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3784424,
+        "pengeluaran": 2923278,
+        "page_one": [
+            2,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            4,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Miftah",
+        "gender": "Pria",
+        "umur": 35,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3293538,
+        "pengeluaran": 1273221,
+        "page_one": [
+            1,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            2,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Dewi",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2278787,
+        "pengeluaran": 2240854,
+        "page_one": [
+            2,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Andi",
+        "gender": "Pria",
+        "umur": 33,
+        "pekerjaan": "Roaster",
+        "pendapatan": 3991597,
+        "pengeluaran": 1343772,
+        "page_one": [
+            2,
+            2,
+            3,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Lestari",
+        "gender": "Wanita",
+        "umur": 32,
+        "pekerjaan": "Barista",
+        "pendapatan": 3036776,
+        "pengeluaran": 2347654,
+        "page_one": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            3,
+            4,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Tito",
+        "gender": "Pria",
+        "umur": 39,
+        "pekerjaan": "Barista",
+        "pendapatan": 2592314,
+        "pengeluaran": 2375786,
+        "page_one": [
+            2,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Kartika",
+        "gender": "Wanita",
+        "umur": 34,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2643885,
+        "pengeluaran": 1837991,
+        "page_one": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Nadia",
+        "gender": "Wanita",
+        "umur": 27,
+        "pekerjaan": "Barista",
+        "pendapatan": 2173813,
+        "pengeluaran": 989103,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            4,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Utami",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2092476,
+        "pengeluaran": 886913,
+        "page_one": [
+            1,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Anita",
+        "gender": "Wanita",
+        "umur": 29,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3125092,
+        "pengeluaran": 2539030,
+        "page_one": [
+            1,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Putri",
+        "gender": "Wanita",
+        "umur": 22,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2593791,
+        "pengeluaran": 1674964,
+        "page_one": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            4,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Gani",
+        "gender": "Pria",
+        "umur": 38,
+        "pekerjaan": "Barista",
+        "pendapatan": 2773427,
+        "pengeluaran": 1503614,
+        "page_one": [
+            1,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Putri",
+        "gender": "Wanita",
+        "umur": 23,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3108370,
+        "pengeluaran": 2573121,
+        "page_one": [
+            1,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            3,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Gani",
+        "gender": "Pria",
+        "umur": 31,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3520141,
+        "pengeluaran": 2865703,
+        "page_one": [
+            2,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            3,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Fajar",
+        "gender": "Pria",
+        "umur": 30,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3050419,
+        "pengeluaran": 1450076,
+        "page_one": [
+            2,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Adi",
+        "gender": "Pria",
+        "umur": 32,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2559953,
+        "pengeluaran": 726062,
+        "page_one": [
+            2,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            4,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Anita",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Barista",
+        "pendapatan": 3831929,
+        "pengeluaran": 1527688,
+        "page_one": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Joko",
+        "gender": "Pria",
+        "umur": 26,
+        "pekerjaan": "Roaster",
+        "pendapatan": 3815922,
+        "pengeluaran": 3431126,
+        "page_one": [
+            2,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            3,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Rina",
+        "gender": "Wanita",
+        "umur": 31,
+        "pekerjaan": "Barista",
+        "pendapatan": 996208,
+        "pengeluaran": 819692,
+        "page_one": [
+            1,
+            1,
+            4,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            3,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Bagus",
+        "gender": "Pria",
+        "umur": 27,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1809983,
+        "pengeluaran": 1286004,
+        "page_one": [
+            1,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Nadia",
+        "gender": "Wanita",
+        "umur": 26,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1698076,
+        "pengeluaran": 812299,
+        "page_one": [
+            2,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Siti",
+        "gender": "Wanita",
+        "umur": 27,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 835595,
+        "pengeluaran": 762708,
+        "page_one": [
+            2,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            4,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Krisna",
+        "gender": "Pria",
+        "umur": 32,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1647352,
+        "pengeluaran": 1256408,
+        "page_one": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            3,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Yuni",
+        "gender": "Wanita",
+        "umur": 22,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2698772,
+        "pengeluaran": 1097237,
+        "page_one": [
+            2,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Lusi",
+        "gender": "Wanita",
+        "umur": 25,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2878317,
+        "pengeluaran": 1335148,
+        "page_one": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            3,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Adi",
+        "gender": "Pria",
+        "umur": 27,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1871795,
+        "pengeluaran": 708683,
+        "page_one": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Siti",
+        "gender": "Wanita",
+        "umur": 41,
+        "pekerjaan": "Barista",
+        "pendapatan": 3670563,
+        "pengeluaran": 3114717,
+        "page_one": [
+            1,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Bunga",
+        "gender": "Wanita",
+        "umur": 36,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3641141,
+        "pengeluaran": 940082,
+        "page_one": [
+            2,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            5,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Erlangga",
+        "gender": "Pria",
+        "umur": 40,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1553263,
+        "pengeluaran": 1317170,
+        "page_one": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            2
+        ],
+        "page_six": [
+            2,
+            3,
+            2,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Gilang",
+        "gender": "Pria",
+        "umur": 32,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2696288,
+        "pengeluaran": 1040230,
+        "page_one": [
+            1,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Lukman",
+        "gender": "Pria",
+        "umur": 29,
+        "pekerjaan": "Barista",
+        "pendapatan": 3802733,
+        "pengeluaran": 3011239,
+        "page_one": [
+            1,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Sari",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2875629,
+        "pengeluaran": 1685527,
+        "page_one": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Bunga",
+        "gender": "Wanita",
+        "umur": 41,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2690619,
+        "pengeluaran": 1282095,
+        "page_one": [
+            2,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Utomo",
+        "gender": "Pria",
+        "umur": 43,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3103351,
+        "pengeluaran": 2449119,
+        "page_one": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            2,
+            3,
+            3,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Oktavia",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3919618,
+        "pengeluaran": 1488060,
+        "page_one": [
+            1,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Anita",
+        "gender": "Wanita",
+        "umur": 25,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3165494,
+        "pengeluaran": 3150552,
+        "page_one": [
+            1,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            4,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Eka",
+        "gender": "Wanita",
+        "umur": 43,
+        "pekerjaan": "Barista",
+        "pendapatan": 1282746,
+        "pengeluaran": 1253913,
+        "page_one": [
+            1,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Tina",
+        "gender": "Wanita",
+        "umur": 26,
+        "pekerjaan": "Roaster",
+        "pendapatan": 3687908,
+        "pengeluaran": 2027556,
+        "page_one": [
+            1,
+            1,
+            4,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            3,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Intan",
+        "gender": "Wanita",
+        "umur": 39,
+        "pekerjaan": "Barista",
+        "pendapatan": 1942981,
+        "pengeluaran": 1622634,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            4,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Siti",
+        "gender": "Wanita",
+        "umur": 23,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1792353,
+        "pengeluaran": 1585912,
+        "page_one": [
+            2,
+            1,
+            4,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Tina",
+        "gender": "Wanita",
+        "umur": 26,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2724866,
+        "pengeluaran": 2517046,
+        "page_one": [
+            1,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            2,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Cahyadi",
+        "gender": "Pria",
+        "umur": 32,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1755780,
+        "pengeluaran": 1462896,
+        "page_one": [
+            2,
+            2,
+            4,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Adit",
+        "gender": "Pria",
+        "umur": 35,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1418926,
+        "pengeluaran": 731059,
+        "page_one": [
+            2,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            4,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Yudha",
+        "gender": "Pria",
+        "umur": 24,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1834181,
+        "pengeluaran": 871975,
+        "page_one": [
+            1,
+            2,
+            3,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Lutfi",
+        "gender": "Pria",
+        "umur": 42,
+        "pekerjaan": "Barista",
+        "pendapatan": 3793181,
+        "pengeluaran": 2981947,
+        "page_one": [
+            2,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Bambang",
+        "gender": "Pria",
+        "umur": 22,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3448011,
+        "pengeluaran": 781211,
+        "page_one": [
+            2,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Handoko",
+        "gender": "Pria",
+        "umur": 42,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2563414,
+        "pengeluaran": 1346936,
+        "page_one": [
+            2,
+            2,
+            4,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            4,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Siska",
+        "gender": "Wanita",
+        "umur": 24,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2062317,
+        "pengeluaran": 1470888,
+        "page_one": [
+            1,
+            2,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Tania",
+        "gender": "Wanita",
+        "umur": 23,
+        "pekerjaan": "Barista",
+        "pendapatan": 1658577,
+        "pengeluaran": 1532122,
+        "page_one": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Wahida",
+        "gender": "Wanita",
+        "umur": 39,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3487104,
+        "pengeluaran": 1690407,
+        "page_one": [
+            1,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            2,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Zaki",
+        "gender": "Pria",
+        "umur": 37,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2783207,
+        "pengeluaran": 1614415,
+        "page_one": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            4,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Zaki",
+        "gender": "Pria",
+        "umur": 28,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 736053,
+        "pengeluaran": 704219,
+        "page_one": [
+            1,
+            2,
+            4,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            5,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            4,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Nando",
+        "gender": "Pria",
+        "umur": 43,
+        "pekerjaan": "Barista",
+        "pendapatan": 3533749,
+        "pengeluaran": 2517775,
+        "page_one": [
+            1,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Erlangga",
+        "gender": "Pria",
+        "umur": 36,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1726930,
+        "pengeluaran": 967064,
+        "page_one": [
+            2,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            2,
+            3,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Dewi",
+        "gender": "Wanita",
+        "umur": 36,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3805902,
+        "pengeluaran": 2238030,
+        "page_one": [
+            1,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Yani",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1957984,
+        "pengeluaran": 1080935,
+        "page_one": [
+            2,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            2,
+            3,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Dedi",
+        "gender": "Pria",
+        "umur": 26,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2337086,
+        "pengeluaran": 1515564,
+        "page_one": [
+            2,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            2,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Yani",
+        "gender": "Wanita",
+        "umur": 29,
+        "pekerjaan": "Barista",
+        "pendapatan": 1156275,
+        "pengeluaran": 897460,
+        "page_one": [
+            1,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            2,
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Kartika",
+        "gender": "Wanita",
+        "umur": 37,
+        "pekerjaan": "Barista",
+        "pendapatan": 2647857,
+        "pengeluaran": 2334929,
+        "page_one": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Hari",
+        "gender": "Pria",
+        "umur": 40,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1911282,
+        "pengeluaran": 1496983,
+        "page_one": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Jaya",
+        "gender": "Pria",
+        "umur": 37,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1087832,
+        "pengeluaran": 995424,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            2,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Winda",
+        "gender": "Wanita",
+        "umur": 43,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3041404,
+        "pengeluaran": 2868450,
+        "page_one": [
+            2,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Prasetyo",
+        "gender": "Pria",
+        "umur": 26,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1941390,
+        "pengeluaran": 1270245,
+        "page_one": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Ratna",
+        "gender": "Wanita",
+        "umur": 34,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1565905,
+        "pengeluaran": 1409086,
+        "page_one": [
+            1,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Gani",
+        "gender": "Pria",
+        "umur": 39,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3013370,
+        "pengeluaran": 2433037,
+        "page_one": [
+            2,
+            1,
+            4,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Gilang",
+        "gender": "Pria",
+        "umur": 32,
+        "pekerjaan": "Barista",
+        "pendapatan": 2971546,
+        "pengeluaran": 2941396,
+        "page_one": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            3,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Mawar",
+        "gender": "Wanita",
+        "umur": 24,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3397575,
+        "pengeluaran": 1453812,
+        "page_one": [
+            1,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Erlina",
+        "gender": "Wanita",
+        "umur": 26,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3397247,
+        "pengeluaran": 2950983,
+        "page_one": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            2,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Anita",
+        "gender": "Wanita",
+        "umur": 26,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1742829,
+        "pengeluaran": 855633,
+        "page_one": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Kartika",
+        "gender": "Wanita",
+        "umur": 38,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1118630,
+        "pengeluaran": 838033,
+        "page_one": [
+            1,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            3,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Mita",
+        "gender": "Pria",
+        "umur": 40,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1732511,
+        "pengeluaran": 1515447,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            3,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Maya",
+        "gender": "Wanita",
+        "umur": 29,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3297117,
+        "pengeluaran": 1312268,
+        "page_one": [
+            2,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            2,
+            2,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Vina",
+        "gender": "Wanita",
+        "umur": 32,
+        "pekerjaan": "Barista",
+        "pendapatan": 3631431,
+        "pengeluaran": 2345847,
+        "page_one": [
+            2,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Siska",
+        "gender": "Wanita",
+        "umur": 34,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2829214,
+        "pengeluaran": 2767142,
+        "page_one": [
+            1,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Fitri",
+        "gender": "Wanita",
+        "umur": 41,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2660115,
+        "pengeluaran": 1801172,
+        "page_one": [
+            2,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Rudi",
+        "gender": "Pria",
+        "umur": 24,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1492264,
+        "pengeluaran": 1262979,
+        "page_one": [
+            1,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            3,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Yuni",
+        "gender": "Wanita",
+        "umur": 25,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2881892,
+        "pengeluaran": 1889611,
+        "page_one": [
+            1,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Intan",
+        "gender": "Wanita",
+        "umur": 36,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3258751,
+        "pengeluaran": 1265058,
+        "page_one": [
+            1,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            1,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            4,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Indra",
+        "gender": "Pria",
+        "umur": 40,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3818362,
+        "pengeluaran": 744330,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Siti",
+        "gender": "Wanita",
+        "umur": 32,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2140876,
+        "pengeluaran": 1189380,
+        "page_one": [
+            1,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Jasmine",
+        "gender": "Wanita",
+        "umur": 24,
+        "pekerjaan": "Barista",
+        "pendapatan": 3383701,
+        "pengeluaran": 1174372,
+        "page_one": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            2,
+            3,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Jaya",
+        "gender": "Pria",
+        "umur": 42,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2993241,
+        "pengeluaran": 2168979,
+        "page_one": [
+            1,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            3,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Andi",
+        "gender": "Pria",
+        "umur": 34,
+        "pekerjaan": "Barista",
+        "pendapatan": 1376737,
+        "pengeluaran": 1067053,
+        "page_one": [
+            2,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Prasetyo",
+        "gender": "Pria",
+        "umur": 36,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3947312,
+        "pengeluaran": 3857312,
+        "page_one": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Dian",
+        "gender": "Wanita",
+        "umur": 31,
+        "pekerjaan": "Barista",
+        "pendapatan": 2385824,
+        "pengeluaran": 1917057,
+        "page_one": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Dewi",
+        "gender": "Wanita",
+        "umur": 27,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2344588,
+        "pengeluaran": 1439416,
+        "page_one": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            4,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Tito",
+        "gender": "Pria",
+        "umur": 25,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3986162,
+        "pengeluaran": 2868855,
+        "page_one": [
+            2,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Sari",
+        "gender": "Wanita",
+        "umur": 34,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2370958,
+        "pengeluaran": 1129732,
+        "page_one": [
+            2,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Dian",
+        "gender": "Wanita",
+        "umur": 29,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3623383,
+        "pengeluaran": 2591707,
+        "page_one": [
+            1,
+            1,
+            4,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Oktavia",
+        "gender": "Wanita",
+        "umur": 33,
+        "pekerjaan": "Barista",
+        "pendapatan": 1673981,
+        "pengeluaran": 1597790,
+        "page_one": [
+            2,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            4,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Yoga",
+        "gender": "Pria",
+        "umur": 34,
+        "pekerjaan": "Barista",
+        "pendapatan": 3962374,
+        "pengeluaran": 1401897,
+        "page_one": [
+            1,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            2,
+            3,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Maya",
+        "gender": "Wanita",
+        "umur": 40,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2713445,
+        "pengeluaran": 1638782,
+        "page_one": [
+            2,
+            2,
+            4,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            2,
+            3,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Mulya",
+        "gender": "Pria",
+        "umur": 42,
+        "pekerjaan": "Roaster",
+        "pendapatan": 912194,
+        "pengeluaran": 736474,
+        "page_one": [
+            2,
+            1,
+            4,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            2,
+            3,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Anita",
+        "gender": "Wanita",
+        "umur": 30,
+        "pekerjaan": "Barista",
+        "pendapatan": 2105613,
+        "pengeluaran": 768550,
+        "page_one": [
+            2,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Nadia",
+        "gender": "Wanita",
+        "umur": 39,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3949621,
+        "pengeluaran": 927366,
+        "page_one": [
+            2,
+            2,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Edo",
+        "gender": "Pria",
+        "umur": 29,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2213201,
+        "pengeluaran": 2066463,
+        "page_one": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Putu",
+        "gender": "Pria",
+        "umur": 33,
+        "pekerjaan": "Barista",
+        "pendapatan": 1212907,
+        "pengeluaran": 1184917,
+        "page_one": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Adi",
+        "gender": "Pria",
+        "umur": 40,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2547079,
+        "pengeluaran": 1926497,
+        "page_one": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Dita",
+        "gender": "Wanita",
+        "umur": 22,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2138912,
+        "pengeluaran": 1361351,
+        "page_one": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            4,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Jasmine",
+        "gender": "Wanita",
+        "umur": 29,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1451244,
+        "pengeluaran": 1371914,
+        "page_one": [
+            2,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            4,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Tania",
+        "gender": "Wanita",
+        "umur": 31,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1732239,
+        "pengeluaran": 1057237,
+        "page_one": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            3,
+            3,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Lestari",
+        "gender": "Wanita",
+        "umur": 43,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1545518,
+        "pengeluaran": 897420,
+        "page_one": [
+            2,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            3,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Umar",
+        "gender": "Pria",
+        "umur": 28,
+        "pekerjaan": "Barista",
+        "pendapatan": 3320788,
+        "pengeluaran": 2167438,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            2,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Yani",
+        "gender": "Wanita",
+        "umur": 27,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1271630,
+        "pengeluaran": 965850,
+        "page_one": [
+            1,
+            1,
+            4,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Siti",
+        "gender": "Wanita",
+        "umur": 36,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2395543,
+        "pengeluaran": 1646111,
+        "page_one": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Rina",
+        "gender": "Wanita",
+        "umur": 43,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1476103,
+        "pengeluaran": 964952,
+        "page_one": [
+            2,
+            2,
+            4,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            2,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Putri",
+        "gender": "Wanita",
+        "umur": 41,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3893002,
+        "pengeluaran": 3007253,
+        "page_one": [
+            1,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Winda",
+        "gender": "Wanita",
+        "umur": 40,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1380142,
+        "pengeluaran": 715939,
+        "page_one": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            4,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Zahra",
+        "gender": "Wanita",
+        "umur": 25,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2587697,
+        "pengeluaran": 2006143,
+        "page_one": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            2,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Wati",
+        "gender": "Wanita",
+        "umur": 34,
+        "pekerjaan": "Barista",
+        "pendapatan": 1326769,
+        "pengeluaran": 1231556,
+        "page_one": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Lestari",
+        "gender": "Wanita",
+        "umur": 34,
+        "pekerjaan": "Barista",
+        "pendapatan": 2746402,
+        "pengeluaran": 2095755,
+        "page_one": [
+            2,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Putri",
+        "gender": "Wanita",
+        "umur": 40,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3623506,
+        "pengeluaran": 2961444,
+        "page_one": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            2,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Sinta",
+        "gender": "Wanita",
+        "umur": 43,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 875867,
+        "pengeluaran": 710043,
+        "page_one": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Novi",
+        "gender": "Wanita",
+        "umur": 30,
+        "pekerjaan": "Barista",
+        "pendapatan": 2644394,
+        "pengeluaran": 2136286,
+        "page_one": [
+            2,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Rina",
+        "gender": "Wanita",
+        "umur": 43,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2565620,
+        "pengeluaran": 2509138,
+        "page_one": [
+            1,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            5,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Wati",
+        "gender": "Wanita",
+        "umur": 34,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1986463,
+        "pengeluaran": 1435704,
+        "page_one": [
+            2,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Rizki",
+        "gender": "Pria",
+        "umur": 22,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1940498,
+        "pengeluaran": 1198050,
+        "page_one": [
+            1,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Endang",
+        "gender": "Pria",
+        "umur": 30,
+        "pekerjaan": "Barista",
+        "pendapatan": 3793477,
+        "pengeluaran": 1686944,
+        "page_one": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            3,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Putu",
+        "gender": "Pria",
+        "umur": 30,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3681497,
+        "pengeluaran": 1211382,
+        "page_one": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            2,
+            3,
+            4,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Umar",
+        "gender": "Pria",
+        "umur": 38,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1345878,
+        "pengeluaran": 829923,
+        "page_one": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Bayu",
+        "gender": "Pria",
+        "umur": 28,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3359972,
+        "pengeluaran": 1999393,
+        "page_one": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Eka",
+        "gender": "Wanita",
+        "umur": 23,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 960128,
+        "pengeluaran": 925517,
+        "page_one": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Nadia",
+        "gender": "Wanita",
+        "umur": 42,
+        "pekerjaan": "Barista",
+        "pendapatan": 776720,
+        "pengeluaran": 703476,
+        "page_one": [
+            2,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            4,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Indah",
+        "gender": "Wanita",
+        "umur": 30,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3851606,
+        "pengeluaran": 2879790,
+        "page_one": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            3,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Utami",
+        "gender": "Wanita",
+        "umur": 27,
+        "pekerjaan": "Barista",
+        "pendapatan": 3860141,
+        "pengeluaran": 3102488,
+        "page_one": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Sinta",
+        "gender": "Wanita",
+        "umur": 39,
+        "pekerjaan": "Barista",
+        "pendapatan": 886596,
+        "pengeluaran": 807297,
+        "page_one": [
+            2,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Winda",
+        "gender": "Wanita",
+        "umur": 27,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1020147,
+        "pengeluaran": 758058,
+        "page_one": [
+            2,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            2,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Krisna",
+        "gender": "Pria",
+        "umur": 39,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1622327,
+        "pengeluaran": 1010390,
+        "page_one": [
+            2,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Rudi",
+        "gender": "Pria",
+        "umur": 41,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 903131,
+        "pengeluaran": 782076,
+        "page_one": [
+            2,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            2,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Lusi",
+        "gender": "Wanita",
+        "umur": 23,
+        "pekerjaan": "Barista",
+        "pendapatan": 1422967,
+        "pengeluaran": 774224,
+        "page_one": [
+            2,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Oktavian",
+        "gender": "Pria",
+        "umur": 24,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3140716,
+        "pengeluaran": 1681848,
+        "page_one": [
+            2,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Miko",
+        "gender": "Pria",
+        "umur": 37,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3348986,
+        "pengeluaran": 1571001,
+        "page_one": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Fitra",
+        "gender": "Pria",
+        "umur": 36,
+        "pekerjaan": "Barista",
+        "pendapatan": 2617890,
+        "pengeluaran": 1248043,
+        "page_one": [
+            1,
+            2,
+            3,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            1,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            3,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Dita",
+        "gender": "Wanita",
+        "umur": 23,
+        "pekerjaan": "Barista",
+        "pendapatan": 3987584,
+        "pengeluaran": 917876,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            4,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Citra",
+        "gender": "Wanita",
+        "umur": 43,
+        "pekerjaan": "Barista",
+        "pendapatan": 1923577,
+        "pengeluaran": 1762229,
+        "page_one": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            3,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Ratna",
+        "gender": "Wanita",
+        "umur": 36,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 781316,
+        "pengeluaran": 705245,
+        "page_one": [
+            2,
+            1,
+            4,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Indra",
+        "gender": "Pria",
+        "umur": 33,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1366639,
+        "pengeluaran": 1332891,
+        "page_one": [
+            2,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            2,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Jamal",
+        "gender": "Pria",
+        "umur": 42,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1285689,
+        "pengeluaran": 727868,
+        "page_one": [
+            2,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            3,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            3,
+            2,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Jaya",
+        "gender": "Pria",
+        "umur": 23,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1897349,
+        "pengeluaran": 1607299,
+        "page_one": [
+            1,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            4,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Faris",
+        "gender": "Pria",
+        "umur": 24,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1639405,
+        "pengeluaran": 1324545,
+        "page_one": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            4,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Mawar",
+        "gender": "Wanita",
+        "umur": 35,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3252292,
+        "pengeluaran": 2361261,
+        "page_one": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            2,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Tania",
+        "gender": "Wanita",
+        "umur": 25,
+        "pekerjaan": "Barista",
+        "pendapatan": 1098784,
+        "pengeluaran": 882582,
+        "page_one": [
+            1,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            4,
+            3,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Tito",
+        "gender": "Pria",
+        "umur": 36,
+        "pekerjaan": "Roaster",
+        "pendapatan": 879163,
+        "pengeluaran": 826177,
+        "page_one": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            3,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Indra",
+        "gender": "Pria",
+        "umur": 43,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3437241,
+        "pengeluaran": 3072454,
+        "page_one": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Utami",
+        "gender": "Wanita",
+        "umur": 36,
+        "pekerjaan": "Barista",
+        "pendapatan": 2408340,
+        "pengeluaran": 2371108,
+        "page_one": [
+            2,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Dian",
+        "gender": "Wanita",
+        "umur": 21,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3106436,
+        "pengeluaran": 2873620,
+        "page_one": [
+            1,
+            1,
+            4,
+            5
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            2,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Putri",
+        "gender": "Wanita",
+        "umur": 22,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1690770,
+        "pengeluaran": 1031057,
+        "page_one": [
+            1,
+            1,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Kartika",
+        "gender": "Wanita",
+        "umur": 24,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1590600,
+        "pengeluaran": 1530723,
+        "page_one": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            2
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            3,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Lestari",
+        "gender": "Wanita",
+        "umur": 31,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1901459,
+        "pengeluaran": 1057255,
+        "page_one": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Rina",
+        "gender": "Wanita",
+        "umur": 32,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1274903,
+        "pengeluaran": 1243830,
+        "page_one": [
+            2,
+            1,
+            4,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Siti",
+        "gender": "Wanita",
+        "umur": 32,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3633254,
+        "pengeluaran": 967640,
+        "page_one": [
+            1,
+            1,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            1,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Hari",
+        "gender": "Pria",
+        "umur": 23,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2677392,
+        "pengeluaran": 1273638,
+        "page_one": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            3,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Jamal",
+        "gender": "Pria",
+        "umur": 33,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2468443,
+        "pengeluaran": 2418859,
+        "page_one": [
+            1,
+            2,
+            5,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            4,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Winda",
+        "gender": "Wanita",
+        "umur": 39,
+        "pekerjaan": "Barista",
+        "pendapatan": 1308640,
+        "pengeluaran": 1307573,
+        "page_one": [
+            1,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            3,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            2,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Dita",
+        "gender": "Wanita",
+        "umur": 40,
+        "pekerjaan": "Roaster",
+        "pendapatan": 959881,
+        "pengeluaran": 872000,
+        "page_one": [
+            1,
+            2,
+            4,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            3,
+            3,
+            3,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Hana",
+        "gender": "Wanita",
+        "umur": 29,
+        "pekerjaan": "Barista",
+        "pendapatan": 763392,
+        "pengeluaran": 713700,
+        "page_one": [
+            1,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            4,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Wulan",
+        "gender": "Wanita",
+        "umur": 37,
+        "pekerjaan": "Barista",
+        "pendapatan": 3805581,
+        "pengeluaran": 2988471,
+        "page_one": [
+            1,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            3,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            3,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Nadia",
+        "gender": "Wanita",
+        "umur": 25,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 1134988,
+        "pengeluaran": 1048349,
+        "page_one": [
+            1,
+            1,
+            4,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            5,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            4,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Anita",
+        "gender": "Wanita",
+        "umur": 32,
+        "pekerjaan": "Barista",
+        "pendapatan": 2448511,
+        "pengeluaran": 1817802,
+        "page_one": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            4,
+            3,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Cika",
+        "gender": "Wanita",
+        "umur": 34,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1560550,
+        "pengeluaran": 1147553,
+        "page_one": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Siska",
+        "gender": "Wanita",
+        "umur": 35,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3310373,
+        "pengeluaran": 1347193,
+        "page_one": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            2,
+            2
+        ],
+        "page_five": [
+            5,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Fitri",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2218174,
+        "pengeluaran": 1067642,
+        "page_one": [
+            2,
+            1,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            3,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            2,
+            2
+        ],
+        "page_six": [
+            2,
+            4,
+            3,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Cahya",
+        "gender": "Pria",
+        "umur": 36,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 2048119,
+        "pengeluaran": 1045220,
+        "page_one": [
+            2,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Lusi",
+        "gender": "Wanita",
+        "umur": 33,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1082038,
+        "pengeluaran": 1028444,
+        "page_one": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            3,
+            3
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Gita",
+        "gender": "Wanita",
+        "umur": 22,
+        "pekerjaan": "Roaster",
+        "pendapatan": 2652429,
+        "pengeluaran": 799257,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Yani",
+        "gender": "Wanita",
+        "umur": 27,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 3829649,
+        "pengeluaran": 1594563,
+        "page_one": [
+            2,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            3,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            2,
+            2,
+            2,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "nama": "Wulan",
+        "gender": "Wanita",
+        "umur": 26,
+        "pekerjaan": "Barista",
+        "pendapatan": 2592325,
+        "pengeluaran": 1417837,
+        "page_one": [
+            1,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            5,
+            5,
+            1,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            1,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Dian",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1256599,
+        "pengeluaran": 806472,
+        "page_one": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            5,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            2,
+            3,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "nama": "Dian",
+        "gender": "Wanita",
+        "umur": 38,
+        "pekerjaan": "Barista",
+        "pendapatan": 1087158,
+        "pengeluaran": 891149,
+        "page_one": [
+            2,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            1,
+            1,
+            4
+        ]
+    },
+    {
+        "nama": "Lestari",
+        "gender": "Wanita",
+        "umur": 28,
+        "pekerjaan": "Barista",
+        "pendapatan": 2239729,
+        "pengeluaran": 710640,
+        "page_one": [
+            1,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            1,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            2,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Jasmine",
+        "gender": "Wanita",
+        "umur": 33,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1498244,
+        "pengeluaran": 838161,
+        "page_one": [
+            2,
+            2,
+            3,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            5
+        ],
+        "page_three": [
+            4,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            1,
+            1
+        ],
+        "page_six": [
+            3,
+            4,
+            4,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Hanif",
+        "gender": "Pria",
+        "umur": 36,
+        "pekerjaan": "Cafe Owner",
+        "pendapatan": 790573,
+        "pengeluaran": 751486,
+        "page_one": [
+            1,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            1,
+            5,
+            5
+        ],
+        "page_four": [
+            5,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Jaya",
+        "gender": "Pria",
+        "umur": 23,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2904042,
+        "pengeluaran": 2271860,
+        "page_one": [
+            1,
+            1,
+            3,
+            3
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            5
+        ],
+        "page_three": [
+            4,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            5,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            4,
+            1,
+            2
+        ],
+        "page_six": [
+            2,
+            2,
+            4,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Indah",
+        "gender": "Wanita",
+        "umur": 24,
+        "pekerjaan": "Roaster",
+        "pendapatan": 3876343,
+        "pengeluaran": 1943635,
+        "page_one": [
+            1,
+            1,
+            5,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            3,
+            4
+        ],
+        "page_three": [
+            3,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            1,
+            3
+        ],
+        "page_five": [
+            5,
+            5,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            4,
+            2,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Nanda",
+        "gender": "Pria",
+        "umur": 31,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2139501,
+        "pengeluaran": 1282322,
+        "page_one": [
+            1,
+            1,
+            5,
+            5
+        ],
+        "page_two": [
+            1,
+            3,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            4,
+            5,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            4,
+            2,
+            1
+        ],
+        "page_six": [
+            3,
+            3,
+            2,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Tania",
+        "gender": "Wanita",
+        "umur": 35,
+        "pekerjaan": "Barista",
+        "pendapatan": 3731740,
+        "pengeluaran": 3128905,
+        "page_one": [
+            2,
+            2,
+            3,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            4
+        ],
+        "page_four": [
+            5,
+            4,
+            2,
+            4
+        ],
+        "page_five": [
+            4,
+            3,
+            1,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            2,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Ika",
+        "gender": "Pria",
+        "umur": 35,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 2626420,
+        "pengeluaran": 1152548,
+        "page_one": [
+            1,
+            1,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            3,
+            3
+        ],
+        "page_five": [
+            5,
+            3,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            3,
+            4,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Vina",
+        "gender": "Wanita",
+        "umur": 42,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 1136829,
+        "pengeluaran": 708132,
+        "page_one": [
+            1,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            2,
+            3,
+            3,
+            4
+        ],
+        "page_three": [
+            5,
+            2,
+            4,
+            5
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            2
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            2,
+            1,
+            3
+        ]
+    },
+    {
+        "nama": "Putra",
+        "gender": "Pria",
+        "umur": 33,
+        "pekerjaan": "Homebrewers",
+        "pendapatan": 3256210,
+        "pengeluaran": 1764414,
+        "page_one": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "page_two": [
+            2,
+            3,
+            4,
+            4
+        ],
+        "page_three": [
+            4,
+            2,
+            5,
+            5
+        ],
+        "page_four": [
+            4,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            4,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            4,
+            2,
+            4,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "nama": "Indah",
+        "gender": "Wanita",
+        "umur": 32,
+        "pekerjaan": "Roaster",
+        "pendapatan": 1806009,
+        "pengeluaran": 958974,
+        "page_one": [
+            1,
+            2,
+            5,
+            3
+        ],
+        "page_two": [
+            1,
+            2,
+            5,
+            4
+        ],
+        "page_three": [
+            5,
+            1,
+            4,
+            4
+        ],
+        "page_four": [
+            3,
+            5,
+            1,
+            2
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            1
+        ],
+        "page_six": [
+            4,
+            4,
+            3,
+            1,
+            2,
+            4
+        ]
+    },
+    {
+        "nama": "Sinta",
+        "gender": "Wanita",
+        "umur": 26,
+        "pekerjaan": "Barista",
+        "pendapatan": 3455896,
+        "pengeluaran": 1139517,
+        "page_one": [
+            2,
+            2,
+            4,
+            4
+        ],
+        "page_two": [
+            2,
+            2,
+            4,
+            5
+        ],
+        "page_three": [
+            3,
+            2,
+            5,
+            4
+        ],
+        "page_four": [
+            3,
+            4,
+            1,
+            4
+        ],
+        "page_five": [
+            5,
+            4,
+            3,
+            2
+        ],
+        "page_six": [
+            3,
+            4,
+            4,
+            1,
+            1,
+            4
+        ]
+    }
+]
